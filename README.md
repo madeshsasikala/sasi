@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sasikala!
+# Hi there, I'm Sasikala Chandrasekaran!
 ## About Me
 🧑‍💻 Electronics and Instrumentation Engineering (EIE) student at SRM University 
 🔥 Passionate about coding,web development,and problem solving
