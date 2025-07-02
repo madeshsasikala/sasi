@@ -22,7 +22,20 @@ Electronics and Instrumentation Engineering (EIE) student at SRM University
   <img src="https://github-readme-stats.vercel.app/api?username=madeshsasikala&show_icons=true&theme=radical" width="48%"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshsasikala&layout=compact&theme=radical" width="48%"/> 
 </p>
----
+
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sasikala&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 🧑‍💻 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+---
