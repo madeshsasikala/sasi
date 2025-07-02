@@ -1,8 +1,8 @@
 
 # Hi there, I'm Sasikala!
-
- Electronics and Instrumentation Engineering (EIE) student at SRM University 
- Passionate about coding,web development,and problem solving
+## About Me
+🧑‍💻 Electronics and Instrumentation Engineering (EIE) student at SRM University 
+🔥 Passionate about coding,web development,and problem solving
   ---
 
  ## 💻 Technical Skills:
