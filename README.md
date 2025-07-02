@@ -1,9 +1,9 @@
 
 # Hi there, I'm Sasikala Chandrasekaran!
 ## 🧠 About Me
--🧑‍💻 Electronics and Instrumentation Engineering (EIE) student at SRM University 
--🔥 Passionate about coding,web development,and problem solving
--🚀 Eager to contribute to innovative projects and learn continuously
+🧑‍💻 Electronics and Instrumentation Engineering (EIE) student at SRM University 
+🔥 Passionate about coding,web development,and problem solving
+🚀 Eager to contribute to innovative projects and learn continuously
 
  ## 💻 Technical Skills:
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js (Learning)
@@ -18,7 +18,6 @@
 - 🔍 Mastering Java and advanced DSA for coding interviews
 -  🚀 Growing through continuous learning and collaboration 
 - 🌐 Building full-stack web applications using Spring Boot and React.js
-- ☁️ Enhancing knowledge in Cloud Computing (AWS fundamentals)
 ---
 
   ### 📫 Connect with Me
