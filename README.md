@@ -1,5 +1,7 @@
 
-Hi there, I'm Sasikala!  Electronics and Instrumentation Engineering (EIE) student at SRM University 💻 Technical Skills:
+Hi there, I'm Sasikala! 
+Electronics and Instrumentation Engineering (EIE) student at SRM University 
+ ## 💻 Technical Skills:
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js (Learning)
 - Backend: Java, Spring Core
 - Database: MySQL, SQL
