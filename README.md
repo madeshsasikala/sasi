@@ -8,14 +8,15 @@
  ## 💻 Technical Skills:
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js (Learning)
 - Backend: Java, Spring Core
-- Database: MySQL, SQL
+- Database: MySQL
 - Programming: Java, DSA
-- Cloud & Tools: Cloud Computing (AWS), GitHub, Postman, VS Code, Eclipse
+- Tools: GitHub, Postman, VS Code, Eclipse
   ---
   
  ## 🎯 Current Goals
 
-- 🔍 Mastering Java and advanced DSA for coding interviews - 🚀 Growing through continuous learning and collaboration 
+- 🔍 Mastering Java and advanced DSA for coding interviews
+-  🚀 Growing through continuous learning and collaboration 
 - 🌐 Building full-stack web applications using Spring Boot and React.js
 - ☁️ Enhancing knowledge in Cloud Computing (AWS fundamentals)
 ---
