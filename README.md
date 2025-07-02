@@ -25,4 +25,4 @@ Electronics and Instrumentation Engineering (EIE) student at SRM University
 ---
 ## 🔥 Streak Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=madeshsasikala" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sasikala&theme=dark&hide_border=true)](https://git.io/streak-stats)
