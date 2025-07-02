@@ -10,7 +10,7 @@
 - Backend: Java, Spring Core
 - Database: MySQL
 - Programming: Java, DSA
-
+  
   ---
   
  ## 🎯 Current Goals
@@ -18,6 +18,7 @@
 - 🔍 Mastering Java and advanced DSA for coding interviews
 -  🚀 Growing through continuous learning and collaboration 
 - 🌐 Building full-stack web applications using Spring Boot and React.js
+
 ---
 
   ### 📫 Connect with Me
@@ -45,7 +46,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 
 ---
 
