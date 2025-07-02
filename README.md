@@ -1,5 +1,5 @@
 
-Hi there, I'm Sasikala! 
+# Hi there, I'm Sasikala! 
 Electronics and Instrumentation Engineering (EIE) student at SRM University 
  ## 💻 Technical Skills:
 - Frontend: HTML, CSS, Bootstrap, JavaScript, React.js (Learning)
@@ -39,3 +39,25 @@ Electronics and Instrumentation Engineering (EIE) student at SRM University
 
 
 ---
+
+### 🛠️ Tools & Platforms  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+## 🎯 Current Focus
+
+- 💡 Improving Java and DSA concepts for problem-solving  
+- 🛠️ Strengthening full-stack development skills  
+- 🌱 Learning Spring Core, React.js & Cloud Computing   
+- 🚀 Eager to learn continuously and contribute to real-world innovations
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasikala-chandrasekaran/)
+[![Email](https://img.shields.io/badge/Email-priyaalgappan12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madeshsasikala8@gmail.com)
