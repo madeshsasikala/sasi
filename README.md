@@ -23,3 +23,12 @@ Electronics and Instrumentation Engineering (EIE) student at SRM University
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshsasikala&layout=compact&theme=radical" width="48%"/> 
 </p>
 
+### 📈 GitHub Stats
+
+![Sasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeshsasikala&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madeshsasikala&layout=compact&theme=radical) 
+
+---
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madeshsasikala&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/madeshsasikala)
