@@ -10,7 +10,7 @@
 - Backend: Java, Spring Core
 - Database: MySQL
 - Programming: Java, DSA
-- Tools: GitHub, Postman, VS Code, Eclipse
+
   ---
   
  ## 🎯 Current Goals
