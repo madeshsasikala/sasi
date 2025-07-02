@@ -17,3 +17,9 @@ Electronics and Instrumentation Engineering (EIE) student at SRM University
   <a href="mailto:"madeshsasikala8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sasikala-chandrasekaran-672279254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madeshsasikala&show_icons=true&theme=radical" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshsasikala&layout=compact&theme=radical" width="48%"/> 
+</p>
+
