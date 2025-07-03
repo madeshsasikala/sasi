@@ -2,7 +2,9 @@
 # Hi there, I'm Sasikala Chandrasekaran!
 ## 🧠 About Me
 🧑‍💻 Electronics and Instrumentation Engineering (EIE) student at SRM University 
+
 🔥 Passionate about coding,web development,and problem solving
+
 🚀 Eager to contribute to innovative projects and learn continuously
 
  ## 💻 Technical Skills:
@@ -13,7 +15,7 @@
   
   ---
   
- ## 🎯 Current Goals
+ ## 🎯 Current Focus 
 
 - 🔍 Mastering Java and advanced DSA for coding interviews
 -  🚀 Growing through continuous learning and collaboration 
