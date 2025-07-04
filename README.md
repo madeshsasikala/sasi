@@ -16,13 +16,14 @@
   
   ---
   
- ## 🎯 Current Focus 
+ ## 🎯 Current Focus
 
-- 🔍 Mastering Java and advanced DSA for coding interviews
--  🚀 Growing through continuous learning and collaboration 
-- 🌐 Building full-stack web applications using Spring Boot and React.js
+- 💡 Improving Java and DSA concepts for problem-solving  
+- 🛠️ Strengthening full-stack development skills  
+- 🌱 Learning Spring Core, React.js & Cloud Computing   
+- 🚀 Eager to learn continuously and contribute to real-world innovations
 
----
+--
 
   ### 📫 Connect with Me
 
@@ -60,14 +61,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-## 🎯 Current Focus
 
-- 💡 Improving Java and DSA concepts for problem-solving  
-- 🛠️ Strengthening full-stack development skills  
-- 🌱 Learning Spring Core, React.js & Cloud Computing   
-- 🚀 Eager to learn continuously and contribute to real-world innovations
-
----
 
 ### 📫 Connect with Me
 
